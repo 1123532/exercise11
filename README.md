@@ -26,8 +26,8 @@
             border: 5px solid red;
             border-radius: 50%;
             position: absolute;
-            top: 25px;
-            left: 25px;
+            top: 25%;
+            right: -25%;
         }
     </style>
 </head>
